@@ -2,7 +2,7 @@
 
 This free evaluation sample prepares attendance exports while keeping staff notes attached by exact, stable record ID. Every record is fictional. An AI agent produced and checked the work with deterministic scripts. No human review, customer adoption, savings or destination-system compatibility is claimed.
 
-**[Open the complete evaluation package](clearrow-evaluation.zip)** and use GitHub's **Download raw file** button. Extract the ZIP, then open `outputs/clearrow-demo/report.html`. The package includes both runs, unchanged originals, prepared CSVs, exceptions, change records, source-row evidence, operating rules, a SHA-256 manifest, Python source and tests. No account, API key or paid dependency is needed to run it locally.
+**[Open the complete evaluation package](https://github.com/kentorgersen-hub/clearrow-csv-demonstration/blob/9215c54e24e49febd63329c2411fa2140c27dfb5/clearrow-evaluation.zip)** and use GitHub's **Download raw file** button. Extract the ZIP, then open `outputs/clearrow-demo/report.html`. The package includes both runs, unchanged originals, prepared CSVs, exceptions, change records, source-row evidence, operating rules, a SHA-256 manifest, Python source and tests. No account, API key or paid dependency is needed to run it locally.
 
 | Run | Export rows | Eligible | Held export rows |
 | --- | ---: | ---: | ---: |
